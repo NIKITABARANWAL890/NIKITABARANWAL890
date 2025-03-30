@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nikita Baranwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An undergraduate student pursuing a B.Tech in Computer Science and Engineering. I have a solid foundation in Web Development and I am a DSA enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabaranwal890" alt="nikitabaranwal890" /></a> </p>
 
