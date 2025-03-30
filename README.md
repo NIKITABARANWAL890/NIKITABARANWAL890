@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Baranwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://t4.ftcdn.net/jpg/08/62/54/13/360_F_862541324_X3OuuiULeTUVRyejme16iFHej1EV8BJB.jpg" alt="nikitabaranwal890" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabaranwal890" alt="nikitabaranwal890" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
